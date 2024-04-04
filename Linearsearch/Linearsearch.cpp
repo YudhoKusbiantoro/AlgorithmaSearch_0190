@@ -7,3 +7,8 @@ using namespace std;
 int arr[20]; //Array to be searched
 int n;       // number of element in the array
 int i;       // index of arrayy element
+
+void input()
+{
+
+}
