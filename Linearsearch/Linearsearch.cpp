@@ -16,5 +16,7 @@ void input()
 		cin >> n;
 		if ((n > 0) && (n <= 20))
 			break;
+		else
+			cout << "\nArray shoudl have minimum 1 and maximum 20 element.\n\n";
 	}
 }
