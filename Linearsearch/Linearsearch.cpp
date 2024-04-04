@@ -38,5 +38,12 @@ void LinearSearch()
 	int ctr; // Number of comparisons
 	int item;
 
+	do
+	{
+		//Accaept the number to be searched
+		cout << "\nEnter the elment you want to search : "; //step 1
+		cin >> item;
+	}
+
 
 }
